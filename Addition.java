@@ -5,6 +5,8 @@ class Addition
     int a=5;
     int b=7;
     int c=10;
-    System.out.println("Addition of two numbers is : "+(a+b+c));
+    int d=13;
+    int e=18;
+    System.out.println("Addition of two numbers is : "+(a+b+c+d+e));
   }
 }
